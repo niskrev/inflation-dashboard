@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "ea/subitems.html",
+    "href": "ea/subitems.html",
     "title": "EA inflation",
     "section": "",
-    "text": "Last observation\n\n\nAugust 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHICP headline\n\n\n2.2 % ⇩\n\n\n\n\n\n\n\n\n\n\n\n\nHICP core\n\n\n2.9 % =\n\n\n\n\n\n\n\n\n\n\nContributions of the main HICP categories2024 weights of the main HICP categories\n\n\n\n\n                                                \n\n\n\n                                                \n\n\n\n\n\nLargest positive contributions\n\n\nRestaurants, cafés and dancing establishments : 0.28\nCigarettes : 0.12\nMotor vehicle insurance : 0.11\n\n\n\nLargest negative contributions\n\n\nPetrol : -0.16\nDiesel : -0.14\nWireless telephone services : -0.03\n\n\n\n\n\n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "HICP-all items\n\naggregate HICP\n\n\n\n  \n    \n      \n        CP00\n        \n        HICP-all items\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\nAll items\n\nCOICOP cassification of HICP\n\n\n\n  \n    \n      \n        CP01\n        \n        Food and non-alcoholic beverages\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP02\n        \n        Alcoholic beverages, tobacco and narcotics\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP03\n        \n        Clothing and footwear\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP04\n        \n        Housing, water, electricity, gas and other fuels\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP05\n        \n        Furnishings, household equipment and routine household maintenance\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP06\n        \n        Health\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP07\n        \n        Transport\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP08\n        \n        Communications\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP09\n        \n        Recreation and culture\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP10\n        \n        Education\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP11\n        \n        Restaurants and hotels\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP12\n        \n        Miscellaneous goods and services\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/index.html",
     "href": "ea/CP00/CP12/index.html",
     "title": "Miscellaneous goods and services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP12\nFigure 2: Contributions subitems of CP12"
+    "text": "Figure 1: Inflation subitems of category Miscellaneous goods and services\nFigure 2: Contributions subitems of category Miscellaneous goods and services"
   },
   {
     "objectID": "ea/CP00/CP12/index.html#subitems",
@@ -25,7 +25,7 @@
     "href": "ea/CP00/CP12/CP126/index.html",
     "title": "Financial services n.e.c.",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP126\nThere are no available subitems of CP126\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Financial services n.e.c.\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP126_contribution.csv\nNo data for item CP126 and country EA\nThere are no available subitems of CP126\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP12/CP126/index.html#subitems",
@@ -39,21 +39,21 @@
     "href": "ea/CP00/CP12/CP125/CP1255/index.html",
     "title": "Other insurance",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1255\n\n\n\n\n\n\n\n\nThere are no available subitems of CP1255\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other insurance\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP1255_contribution.csv\nNo data for item CP1255 and country EA\nThere are no available subitems of CP1255\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP125/CP1253/index.html",
     "href": "ea/CP00/CP12/CP125/CP1253/index.html",
     "title": "Insurance connected with health",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1253\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1253\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Insurance connected with health\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Insurance connected with health\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP124/index.html",
     "href": "ea/CP00/CP12/CP124/index.html",
     "title": "Social protection",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP124\nThere are no available subitems of CP124\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Social protection\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP124_contribution.csv\nNo data for item CP124 and country EA\nThere are no available subitems of CP124\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP12/CP124/index.html#subitems",
@@ -67,14 +67,14 @@
     "href": "ea/CP00/CP12/CP123/CP1232/index.html",
     "title": "Other personal effects",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1232\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1232\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other personal effects\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other personal effects\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP121/index.html",
     "href": "ea/CP00/CP12/CP121/index.html",
     "title": "Personal care",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP121\nFigure 2: Contributions subitems of CP121"
+    "text": "Figure 1: Inflation subitems of category Personal care\nFigure 2: Contributions subitems of category Personal care"
   },
   {
     "objectID": "ea/CP00/CP12/CP121/index.html#subitems",
@@ -88,14 +88,14 @@
     "href": "ea/CP00/CP12/CP121/CP1212/index.html",
     "title": "Electrical appliances for personal care",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1212\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1212\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Electrical appliances for personal care\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Electrical appliances for personal care\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP11/index.html",
     "href": "ea/CP00/CP11/index.html",
     "title": "Restaurants and hotels",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP11\nFigure 2: Contributions subitems of CP11"
+    "text": "Figure 1: Inflation subitems of category Restaurants and hotels\nFigure 2: Contributions subitems of category Restaurants and hotels"
   },
   {
     "objectID": "ea/CP00/CP11/index.html#subitems",
@@ -109,7 +109,7 @@
     "href": "ea/CP00/CP11/CP111/index.html",
     "title": "Catering services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP111\nFigure 2: Contributions subitems of CP111"
+    "text": "Figure 1: Inflation subitems of category Catering services\nFigure 2: Contributions subitems of category Catering services"
   },
   {
     "objectID": "ea/CP00/CP11/CP111/index.html#subitems",
@@ -123,14 +123,14 @@
     "href": "ea/CP00/CP11/CP111/CP1111/index.html",
     "title": "Restaurants, caf�s and the like",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1111\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1111\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Restaurants, caf�s and the like\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Restaurants, caf�s and the like\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP10/CP105/index.html",
     "href": "ea/CP00/CP10/CP105/index.html",
     "title": "Education not definable by level",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP105\nThere are no available subitems of CP105\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Education not definable by level\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP105_contribution.csv\nNo data for item CP105 and country EA\nThere are no available subitems of CP105\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP10/CP105/index.html#subitems",
@@ -144,7 +144,7 @@
     "href": "ea/CP00/CP10/CP103/index.html",
     "title": "Post-secondary non-tertiary education",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP103\nThere are no available subitems of CP103\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Post-secondary non-tertiary education\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP103_contribution.csv\nNo data for item CP103 and country EA\nThere are no available subitems of CP103\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP10/CP103/index.html#subitems",
@@ -158,7 +158,7 @@
     "href": "ea/CP00/CP10/CP101/index.html",
     "title": "Pre-primary and primary education",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP101\nThere are no available subitems of CP101\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Pre-primary and primary education\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP101_contribution.csv\nNo data for item CP101 and country EA\nThere are no available subitems of CP101\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP10/CP101/index.html#subitems",
@@ -172,7 +172,7 @@
     "href": "ea/CP00/CP09/CP096/index.html",
     "title": "Package holidays",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP096\nThere are no available subitems of CP096\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Package holidays\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP096_contribution.csv\nNo data for item CP096 and country EA\nThere are no available subitems of CP096\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP09/CP096/index.html#subitems",
@@ -186,21 +186,21 @@
     "href": "ea/CP00/CP09/CP095/CP0954/index.html",
     "title": "Stationery and drawing materials",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0954\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0954\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Stationery and drawing materials\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Stationery and drawing materials\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP095/CP0952/index.html",
     "href": "ea/CP00/CP09/CP095/CP0952/index.html",
     "title": "Newspapers and periodicals",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0952\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0952\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Newspapers and periodicals\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Newspapers and periodicals\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP094/index.html",
     "href": "ea/CP00/CP09/CP094/index.html",
     "title": "Recreational and cultural services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP094\nFigure 2: Contributions subitems of CP094"
+    "text": "Figure 1: Inflation subitems of category Recreational and cultural services\nFigure 2: Contributions subitems of category Recreational and cultural services"
   },
   {
     "objectID": "ea/CP00/CP09/CP094/index.html#subitems",
@@ -214,70 +214,70 @@
     "href": "ea/CP00/CP09/CP094/CP0941/index.html",
     "title": "Recreational and sporting services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0941\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0941\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Recreational and sporting services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Recreational and sporting services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/CP0935/index.html",
     "href": "ea/CP00/CP09/CP093/CP0935/index.html",
     "title": "Veterinary and other services for pets",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0935\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0935\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Veterinary and other services for pets\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0935_contribution.csv\nNo data for item CP0935 and country EA\nThere are no available subitems of CP0935\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/CP0933/index.html",
     "href": "ea/CP00/CP09/CP093/CP0933/index.html",
     "title": "Gardens, plants and flowers",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0933\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0933\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Gardens, plants and flowers\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Gardens, plants and flowers\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/CP0931/index.html",
     "href": "ea/CP00/CP09/CP093/CP0931/index.html",
     "title": "Games, toys and hobbies",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0931\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0931\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Games, toys and hobbies\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Games, toys and hobbies\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP092/CP0923/index.html",
     "href": "ea/CP00/CP09/CP092/CP0923/index.html",
     "title": "Maintenance and repair of other major durables for recreation and culture",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0923\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0923\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Maintenance and repair of other major durables for recreation and culture\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0923_contribution.csv\nNo data for item CP0923 and country EA\nThere are no available subitems of CP0923\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP092/CP0921/index.html",
     "href": "ea/CP00/CP09/CP092/CP0921/index.html",
     "title": "Major durables for outdoor recreation",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0921\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0921\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Major durables for outdoor recreation\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Major durables for outdoor recreation\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/CP0915/index.html",
     "href": "ea/CP00/CP09/CP091/CP0915/index.html",
     "title": "Repair of audio-visual, photographic and information processing equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0915\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0915\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Repair of audio-visual, photographic and information processing equipment\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0915_contribution.csv\nNo data for item CP0915 and country EA\nThere are no available subitems of CP0915\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/CP0913/index.html",
     "href": "ea/CP00/CP09/CP091/CP0913/index.html",
     "title": "Information processing equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0913\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0913\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Information processing equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Information processing equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/CP0911/index.html",
     "href": "ea/CP00/CP09/CP091/CP0911/index.html",
     "title": "Equipment for the reception, recording and reproduction of sound and picture",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0911\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0911\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Equipment for the reception, recording and reproduction of sound and picture\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Equipment for the reception, recording and reproduction of sound and picture\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP08/CP081/index.html",
     "href": "ea/CP00/CP08/CP081/index.html",
     "title": "Postal services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP081\nThere are no available subitems of CP081\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Postal services\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP081_contribution.csv\nNo data for item CP081 and country EA\nThere are no available subitems of CP081\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP08/CP081/index.html#subitems",
@@ -291,7 +291,7 @@
     "href": "ea/CP00/CP07/CP073/index.html",
     "title": "Transport services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP073\nFigure 2: Contributions subitems of CP073"
+    "text": "Figure 1: Inflation subitems of category Transport services\nFigure 2: Contributions subitems of category Transport services"
   },
   {
     "objectID": "ea/CP00/CP07/CP073/index.html#subitems",
@@ -305,42 +305,42 @@
     "href": "ea/CP00/CP07/CP073/CP0735/index.html",
     "title": "Combined passenger transport",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0735\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0735\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Combined passenger transport\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0735_contribution.csv\nNo data for item CP0735 and country EA\nThere are no available subitems of CP0735\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP073/CP0733/index.html",
     "href": "ea/CP00/CP07/CP073/CP0733/index.html",
     "title": "Passenger transport by air",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0733\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0733\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Passenger transport by air\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Passenger transport by air\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP073/CP0731/index.html",
     "href": "ea/CP00/CP07/CP073/CP0731/index.html",
     "title": "Passenger transport by railway",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0731\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0731\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Passenger transport by railway\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Passenger transport by railway\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/CP0724/index.html",
     "href": "ea/CP00/CP07/CP072/CP0724/index.html",
     "title": "Other services in respect of personal transport equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0724\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0724\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other services in respect of personal transport equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other services in respect of personal transport equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/CP0722/index.html",
     "href": "ea/CP00/CP07/CP072/CP0722/index.html",
     "title": "Fuels and lubricants for personal transport equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0722\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0722\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Fuels and lubricants for personal transport equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Fuels and lubricants for personal transport equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP071/index.html",
     "href": "ea/CP00/CP07/CP071/index.html",
     "title": "Purchase of vehicles",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP071\nFigure 2: Contributions subitems of CP071"
+    "text": "Figure 1: Inflation subitems of category Purchase of vehicles\nFigure 2: Contributions subitems of category Purchase of vehicles"
   },
   {
     "objectID": "ea/CP00/CP07/CP071/index.html#subitems",
@@ -354,14 +354,14 @@
     "href": "ea/CP00/CP07/CP071/CP0712/index.html",
     "title": "Motor cycles",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0712\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0712\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Motor cycles\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0712_contribution.csv\nNo data for item CP0712 and country EA\nThere are no available subitems of CP0712\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/index.html",
     "href": "ea/CP00/CP06/index.html",
     "title": "Health",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP06\nFigure 2: Contributions subitems of CP06"
+    "text": "Figure 1: Inflation subitems of category Health\nFigure 2: Contributions subitems of category Health"
   },
   {
     "objectID": "ea/CP00/CP06/index.html#subitems",
@@ -375,7 +375,7 @@
     "href": "ea/CP00/CP06/CP062/index.html",
     "title": "Out-patient services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP062\nFigure 2: Contributions subitems of CP062"
+    "text": "Figure 1: Inflation subitems of category Out-patient services\nFigure 2: Contributions subitems of category Out-patient services"
   },
   {
     "objectID": "ea/CP00/CP06/CP062/index.html#subitems",
@@ -389,14 +389,14 @@
     "href": "ea/CP00/CP06/CP062/CP0622/index.html",
     "title": "Dental services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0622\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0622\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Dental services\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0622_contribution.csv\nNo data for item CP0622 and country EA\nThere are no available subitems of CP0622\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/CP061/index.html",
     "href": "ea/CP00/CP06/CP061/index.html",
     "title": "Medical products, appliances and equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP061\nFigure 2: Contributions subitems of CP061"
+    "text": "Figure 1: Inflation subitems of category Medical products, appliances and equipment\nFigure 2: Contributions subitems of category Medical products, appliances and equipment"
   },
   {
     "objectID": "ea/CP00/CP06/CP061/index.html#subitems",
@@ -410,14 +410,14 @@
     "href": "ea/CP00/CP06/CP061/CP0612/index.html",
     "title": "Other medical products",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0612\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0612\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other medical products\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0612_contribution.csv\nNo data for item CP0612 and country EA\nThere are no available subitems of CP0612\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/index.html",
     "href": "ea/CP00/CP05/index.html",
     "title": "Furnishings, household equipment and routine household maintenance",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP05\nFigure 2: Contributions subitems of CP05"
+    "text": "Figure 1: Inflation subitems of category Furnishings, household equipment and routine household maintenance\nFigure 2: Contributions subitems of category Furnishings, household equipment and routine household maintenance"
   },
   {
     "objectID": "ea/CP00/CP05/index.html#subitems",
@@ -431,14 +431,14 @@
     "href": "ea/CP00/CP05/CP056/CP0562/index.html",
     "title": "Domestic services and household services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0562\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0562\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Domestic services and household services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Domestic services and household services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP055/index.html",
     "href": "ea/CP00/CP05/CP055/index.html",
     "title": "Tools and equipment for house and garden",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP055\nFigure 2: Contributions subitems of CP055"
+    "text": "Figure 1: Inflation subitems of category Tools and equipment for house and garden\nFigure 2: Contributions subitems of category Tools and equipment for house and garden"
   },
   {
     "objectID": "ea/CP00/CP05/CP055/index.html#subitems",
@@ -452,14 +452,14 @@
     "href": "ea/CP00/CP05/CP055/CP0551/index.html",
     "title": "Major tools and equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0551\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0551\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Major tools and equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Major tools and equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP053/index.html",
     "href": "ea/CP00/CP05/CP053/index.html",
     "title": "Household appliances",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP053\nFigure 2: Contributions subitems of CP053"
+    "text": "Figure 1: Inflation subitems of category Household appliances\nFigure 2: Contributions subitems of category Household appliances"
   },
   {
     "objectID": "ea/CP00/CP05/CP053/index.html#subitems",
@@ -473,14 +473,14 @@
     "href": "ea/CP00/CP05/CP053/CP0532/index.html",
     "title": "Small electric household appliances",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0532\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0532\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Small electric household appliances\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0532_contribution.csv\nNo data for item CP0532 and country EA\nThere are no available subitems of CP0532\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP052/index.html",
     "href": "ea/CP00/CP05/CP052/index.html",
     "title": "Household textiles",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP052\nThere are no available subitems of CP052\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Household textiles\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP052_contribution.csv\nNo data for item CP052 and country EA\nThere are no available subitems of CP052\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP05/CP052/index.html#subitems",
@@ -494,21 +494,21 @@
     "href": "ea/CP00/CP05/CP051/CP0513/index.html",
     "title": "Repair of furniture, furnishings and floor coverings",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0513\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0513\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Repair of furniture, furnishings and floor coverings\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0513_contribution.csv\nNo data for item CP0513 and country EA\nThere are no available subitems of CP0513\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP051/CP0511/index.html",
     "href": "ea/CP00/CP05/CP051/CP0511/index.html",
     "title": "Furniture and furnishings",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0511\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0511\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Furniture and furnishings\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Furniture and furnishings\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/index.html",
     "href": "ea/CP00/CP04/CP045/index.html",
     "title": "Electricity, gas and other fuels",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP045\nFigure 2: Contributions subitems of CP045"
+    "text": "Figure 1: Inflation subitems of category Electricity, gas and other fuels\nFigure 2: Contributions subitems of category Electricity, gas and other fuels"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/index.html#subitems",
@@ -522,21 +522,21 @@
     "href": "ea/CP00/CP04/CP045/CP0454/index.html",
     "title": "Solid fuels",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0454\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0454\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Solid fuels\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Solid fuels\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/CP0452/index.html",
     "href": "ea/CP00/CP04/CP045/CP0452/index.html",
     "title": "Gas",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0452\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0452\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Gas\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Gas\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP044/index.html",
     "href": "ea/CP00/CP04/CP044/index.html",
     "title": "Water supply and miscellaneous services relating to the dwelling",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP044\nFigure 2: Contributions subitems of CP044"
+    "text": "Figure 1: Inflation subitems of category Water supply and miscellaneous services relating to the dwelling\nFigure 2: Contributions subitems of category Water supply and miscellaneous services relating to the dwelling"
   },
   {
     "objectID": "ea/CP00/CP04/CP044/index.html#subitems",
@@ -550,28 +550,28 @@
     "href": "ea/CP00/CP04/CP044/CP0443/index.html",
     "title": "Sewerage collection",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0443\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0443\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Sewerage collection\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0443_contribution.csv\nNo data for item CP0443 and country EA\nThere are no available subitems of CP0443\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP044/CP0441/index.html",
     "href": "ea/CP00/CP04/CP044/CP0441/index.html",
     "title": "Water supply",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0441\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0441\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Water supply\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0441_contribution.csv\nNo data for item CP0441 and country EA\nThere are no available subitems of CP0441\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP043/CP0432/index.html",
     "href": "ea/CP00/CP04/CP043/CP0432/index.html",
     "title": "Services for the maintenance and repair of the dwelling",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0432\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0432\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Services for the maintenance and repair of the dwelling\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Services for the maintenance and repair of the dwelling\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP041/index.html",
     "href": "ea/CP00/CP04/CP041/index.html",
     "title": "Actual rentals for housing",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP041\nFigure 2: Contributions subitems of CP041"
+    "text": "Figure 1: Inflation subitems of category Actual rentals for housing\nFigure 2: Contributions subitems of category Actual rentals for housing"
   },
   {
     "objectID": "ea/CP00/CP04/CP041/index.html#subitems",
@@ -585,14 +585,14 @@
     "href": "ea/CP00/CP04/CP041/CP0411/index.html",
     "title": "Actual rentals paid by tenants",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0411\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0411\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Actual rentals paid by tenants\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0411_contribution.csv\nNo data for item CP0411 and country EA\nThere are no available subitems of CP0411\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/CP032/index.html",
     "href": "ea/CP00/CP03/CP032/index.html",
     "title": "Footwear",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP032\nFigure 2: Contributions subitems of CP032"
+    "text": "Figure 1: Inflation subitems of category Footwear\nFigure 2: Contributions subitems of category Footwear"
   },
   {
     "objectID": "ea/CP00/CP03/CP032/index.html#subitems",
@@ -606,28 +606,28 @@
     "href": "ea/CP00/CP03/CP032/CP0321/index.html",
     "title": "Shoes and other footwear",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0321\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0321\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Shoes and other footwear\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Shoes and other footwear\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/CP031/CP0314/index.html",
     "href": "ea/CP00/CP03/CP031/CP0314/index.html",
     "title": "Cleaning, repair and hire of clothing",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0314\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0314\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Cleaning, repair and hire of clothing\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Cleaning, repair and hire of clothing\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/CP031/CP0312/index.html",
     "href": "ea/CP00/CP03/CP031/CP0312/index.html",
     "title": "Garments",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0312\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0312\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Garments\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Garments\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP02/index.html",
     "href": "ea/CP00/CP02/index.html",
     "title": "Alcoholic beverages, tobacco and narcotics",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP02\nFigure 2: Contributions subitems of CP02"
+    "text": "Figure 1: Inflation subitems of category Alcoholic beverages, tobacco and narcotics\nFigure 2: Contributions subitems of category Alcoholic beverages, tobacco and narcotics"
   },
   {
     "objectID": "ea/CP00/CP02/index.html#subitems",
@@ -641,7 +641,7 @@
     "href": "ea/CP00/CP02/CP021/index.html",
     "title": "Alcoholic beverages",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP021\nFigure 2: Contributions subitems of CP021"
+    "text": "Figure 1: Inflation subitems of category Alcoholic beverages\nFigure 2: Contributions subitems of category Alcoholic beverages"
   },
   {
     "objectID": "ea/CP00/CP02/CP021/index.html#subitems",
@@ -655,35 +655,252 @@
     "href": "ea/CP00/CP02/CP021/CP0212/index.html",
     "title": "Wine",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0212\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0212\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Wine\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Wine\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "ea/CP00/CP01/index.html",
-    "href": "ea/CP00/CP01/index.html",
-    "title": "Food and non-alcoholic beverages",
+    "objectID": "U2/000000/SERV00/TRANSP/index.html",
+    "href": "U2/000000/SERV00/TRANSP/index.html",
+    "title": "Transport",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP01\nFigure 2: Contributions subitems of CP01"
+    "text": "Figure 1: Inflation subitems of category Transport\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Transport\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "ea/CP00/CP01/index.html#subitems",
-    "href": "ea/CP00/CP01/index.html#subitems",
-    "title": "Food and non-alcoholic beverages",
+    "objectID": "U2/000000/SERV00/RECR00/index.html",
+    "href": "U2/000000/SERV00/RECR00/index.html",
+    "title": "Recreation",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Recreation\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Recreation\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/SERV00/MISC00/index.html",
+    "href": "U2/000000/SERV00/MISC00/index.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Miscellaneous\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Miscellaneous\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/SERV00/index.html",
+    "href": "U2/000000/SERV00/index.html",
+    "title": "Services",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Services\nFigure 2: Contributions subitems of category Services"
+  },
+  {
+    "objectID": "U2/000000/SERV00/index.html#subitems",
+    "href": "U2/000000/SERV00/index.html#subitems",
+    "title": "Services",
     "section": "Subitems:",
-    "text": "Subitems:\n\nFood\nNon-alcoholic beverages"
+    "text": "Subitems:\n\nCommunication services\nRecreation\nTransport\nHousing\nMiscellaneous"
   },
   {
-    "objectID": "ea/CP00/CP01/CP012/CP0122/index.html",
-    "href": "ea/CP00/CP01/CP012/CP0122/index.html",
-    "title": "Mineral waters, soft drinks, fruit and vegetable juices",
+    "objectID": "U2/000000/SERV00/HOUSE0/index.html",
+    "href": "U2/000000/SERV00/HOUSE0/index.html",
+    "title": "Housing",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0122\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0122\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Housing\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Housing\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/SERV00/COMM00/index.html",
+    "href": "U2/000000/SERV00/COMM00/index.html",
+    "title": "Communication services",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Communication services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Communication services\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/NRGY00/index.html",
+    "href": "U2/000000/NRGY00/index.html",
+    "title": "Energy",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Energy\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Energy\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/index.quarto.html",
+    "href": "U2/000000/index.quarto.html",
+    "title": "HICP",
+    "section": "",
+    "text": "title_inflation\n\n'HICP'\nFigure 1: Inflation subitems of category HICP\nFigure 2: Contributions subitems of category HICP"
+  },
+  {
+    "objectID": "U2/000000/index.quarto.html#subitems",
+    "href": "U2/000000/index.quarto.html#subitems",
+    "title": "HICP",
+    "section": "Subitems:",
+    "text": "Subitems:\n\nNEIG\nServices\nFood\nEnergy"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0118/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0118/index.html",
+    "title": "Sugar, jam, honey, chocolate and confectionery",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Sugar, jam, honey, chocolate and confectionery\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Sugar, jam, honey, chocolate and confectionery\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0117/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0117/index.html",
+    "title": "Vegetables",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Vegetables\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Vegetables\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0116/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0116/index.html",
+    "title": "Fruit",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Fruit\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Fruit\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/IGXE00/IGXEND/index.html",
+    "href": "U2/000000/IGXE00/IGXEND/index.html",
+    "title": "NEIG non-durables",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category NEIG non-durables\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category NEIG non-durables\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/IGXE00/IGXEDU/index.html",
+    "href": "U2/000000/IGXE00/IGXEDU/index.html",
+    "title": "NEIG durables",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category NEIG durables\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category NEIG durables\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/FOOD00/index.html",
+    "href": "U2/000000/FOOD00/index.html",
+    "title": "Food",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Food\nFigure 2: Contributions subitems of category Food"
+  },
+  {
+    "objectID": "U2/000000/FOOD00/index.html#subitems",
+    "href": "U2/000000/FOOD00/index.html#subitems",
+    "title": "Food",
+    "section": "Subitems:",
+    "text": "Subitems:\n\nUnprocessed food\nProcessed food"
+  },
+  {
+    "objectID": "U2/000000/FOOD00/FOODUN/index.html",
+    "href": "U2/000000/FOOD00/FOODUN/index.html",
+    "title": "Unprocessed food",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Unprocessed food\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Unprocessed food\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/FOOD00/FOODPR/index.html",
+    "href": "U2/000000/FOOD00/FOODPR/index.html",
+    "title": "Processed food",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Processed food\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Processed food\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "country.html",
+    "href": "country.html",
+    "title": "Inflation developments by country",
+    "section": "",
+    "text": "Figure 1: Country contributions to EA HICP\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "disaggregated.html",
+    "href": "disaggregated.html",
+    "title": "Disaggregated HICP",
+    "section": "",
+    "text": "Main items\n        \n        ECB classification\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        All items\n        \n        COICOP classification\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "underlying.html",
+    "href": "underlying.html",
+    "title": "Indicators of underlying inflation",
+    "section": "",
+    "text": "Figure 1: Indicators of underlying inflation\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0111/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0111/index.html",
+    "title": "Bread and cereals",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Bread and cereals\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Bread and cereals\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0112/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0112/index.html",
+    "title": "Meat",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Meat\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Meat\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0113/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0113/index.html",
+    "title": "Fish and seafood",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Fish and seafood\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Fish and seafood\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0114/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0114/index.html",
+    "title": "Milk, cheese and eggs",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Milk, cheese and eggs\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Milk, cheese and eggs\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0115/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0115/index.html",
+    "title": "Oils and fats",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Oils and fats\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Oils and fats\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EA inflation",
+    "section": "",
+    "text": "Last observation\n\n\nSeptember 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHICP headline\n\n\n1.8 % ⇩\n\n\n\n\n\n\n\n\n\n\n\n\nHICP core\n\n\n2.7 % ⇩\n\n\n\n\n\n\n\n\n\n\nHICP: main items (YoY)HICP: all items (YoY)HICP: all items (MoM)Contributions: main itemsContributions: all items\n\n\n\n\n\n\n\n                                                \n\n\n\n                                                \n\n\n\n                                                \n\n\n\n                                                \n\n\n\n                                                \n\n\n\n\n\nLargest positive contributions\n\n\nRestaurants, cafés and dancing establishments : 0.28\nCigarettes : 0.12\nMotor vehicle insurance : 0.11\n\n\n\nLargest negative contributions\n\n\nPetrol : -0.16\nDiesel : -0.14\nWireless telephone services : -0.03\n\n\n\n\n\n\n\n\n\n\n\nHeadline (YoY)Headline and main items (YoY)Headline and all items (YoY)\n\n\n\n\n\n                                                \n\n\n\n                                                \n\n\n\n                                                \n\n\n\n\n\n\n\n\n\nweights in HICP: main itemsweights in HICP: all items\n\n\n\n\n\n\n\n\n\n                                                \n\n\n\n                                                \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/IGXE00/IGXESD/index.html",
+    "href": "U2/000000/IGXE00/IGXESD/index.html",
+    "title": "NEIG semi-durables",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category NEIG semi-durables\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category NEIG semi-durables\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/000000/IGXE00/index.html",
+    "href": "U2/000000/IGXE00/index.html",
+    "title": "NEIG",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category NEIG\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\U2\\sub_items_IGXE00_contribution.csv\nNo data for item IGXE00 and country U2\nThere are no available subitems of IGXE00\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "U2/000000/IGXE00/index.html#subitems",
+    "href": "U2/000000/IGXE00/index.html#subitems",
+    "title": "NEIG",
+    "section": "Subitems:",
+    "text": "Subitems:\n\nNEIG durables\nNEIG non-durables\nNEIG semi-durables"
+  },
+  {
+    "objectID": "U2/000000/index.html",
+    "href": "U2/000000/index.html",
+    "title": "All-items HICP",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category All-items HICP\nFigure 2: Contributions subitems of category All-items HICP"
+  },
+  {
+    "objectID": "U2/000000/index.html#subitems",
+    "href": "U2/000000/index.html#subitems",
+    "title": "All-items HICP",
+    "section": "Subitems:",
+    "text": "Subitems:\n\nNEIG\nServices\nFood\nEnergy"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP011/CP0119/index.html",
+    "href": "ea/CP00/CP01/CP011/CP0119/index.html",
+    "title": "Food products n.e.c.",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Food products n.e.c.\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Food products n.e.c.\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP01/CP011/index.html",
     "href": "ea/CP00/CP01/CP011/index.html",
     "title": "Food",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP011\nFigure 2: Contributions subitems of CP011"
+    "text": "Figure 1: Inflation subitems of category Food\nFigure 2: Contributions subitems of category Food"
   },
   {
     "objectID": "ea/CP00/CP01/CP011/index.html#subitems",
@@ -693,88 +910,25 @@
     "text": "Subitems:\n\nBread and cereals\nMeat\nFish and seafood\nMilk, cheese and eggs\nOils and fats\nFruit\nVegetables\nSugar, jam, honey, chocolate and confectionery\nFood products n.e.c."
   },
   {
-    "objectID": "ea/CP00/CP01/CP011/CP0118/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0118/index.html",
-    "title": "Sugar, jam, honey, chocolate and confectionery",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0118\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0118\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0116/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0116/index.html",
-    "title": "Fruit",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0116\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0116\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0114/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0114/index.html",
-    "title": "Milk, cheese and eggs",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0114\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0114\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0112/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0112/index.html",
-    "title": "Meat",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0112\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0112\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "subitems.html",
-    "href": "subitems.html",
-    "title": "EA inflation",
-    "section": "",
-    "text": "Main subcategories\n\nMain subcategories of HICP\n\n\n\n  \n    \n      \n        CP01\n        \n        Food and non-alcoholic beverages\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP02\n        \n        Alcoholic beverages, tobacco and narcotics\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP03\n        \n        Clothing and footwear\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP04\n        \n        Housing, water, electricity, gas and other fuels\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP05\n        \n        Furnishings, household equipment and routine household maintenance\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP06\n        \n        Health\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP07\n        \n        Transport\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP08\n        \n        Communications\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP09\n        \n        Recreation and culture\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP10\n        \n        Education\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP11\n        \n        Restaurants and hotels\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        CP12\n        \n        Miscellaneous goods and services\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0111/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0111/index.html",
-    "title": "Bread and cereals",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0111\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0111\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0113/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0113/index.html",
-    "title": "Fish and seafood",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0113\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0113\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0115/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0115/index.html",
-    "title": "Oils and fats",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0115\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0115\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0117/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0117/index.html",
-    "title": "Vegetables",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0117\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0117\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ea/CP00/CP01/CP011/CP0119/index.html",
-    "href": "ea/CP00/CP01/CP011/CP0119/index.html",
-    "title": "Food products n.e.c.",
-    "section": "",
-    "text": "Figure 1: Inflation subitems of CP0119\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0119\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "ea/CP00/CP01/CP012/CP0121/index.html",
     "href": "ea/CP00/CP01/CP012/CP0121/index.html",
     "title": "Coffee, tea and cocoa",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0121\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0121\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Coffee, tea and cocoa\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Coffee, tea and cocoa\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ea/CP00/CP01/CP012/CP0122/index.html",
+    "href": "ea/CP00/CP01/CP012/CP0122/index.html",
+    "title": "Mineral waters, soft drinks, fruit and vegetable juices",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Mineral waters, soft drinks, fruit and vegetable juices\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Mineral waters, soft drinks, fruit and vegetable juices\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP01/CP012/index.html",
     "href": "ea/CP00/CP01/CP012/index.html",
     "title": "Non-alcoholic beverages",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP012\nFigure 2: Contributions subitems of CP012"
+    "text": "Figure 1: Inflation subitems of category Non-alcoholic beverages\nFigure 2: Contributions subitems of category Non-alcoholic beverages"
   },
   {
     "objectID": "ea/CP00/CP01/CP012/index.html#subitems",
@@ -784,25 +938,46 @@
     "text": "Subitems:\n\nCoffee, tea and cocoa\nMineral waters, soft drinks, fruit and vegetable juices"
   },
   {
+    "objectID": "ea/CP00/CP01/index.html",
+    "href": "ea/CP00/CP01/index.html",
+    "title": "Food and non-alcoholic beverages",
+    "section": "",
+    "text": "Figure 1: Inflation subitems of category Food and non-alcoholic beverages\nFigure 2: Contributions subitems of category Food and non-alcoholic beverages"
+  },
+  {
+    "objectID": "ea/CP00/CP01/index.html#subitems",
+    "href": "ea/CP00/CP01/index.html#subitems",
+    "title": "Food and non-alcoholic beverages",
+    "section": "Subitems:",
+    "text": "Subitems:\n\nFood\nNon-alcoholic beverages"
+  },
+  {
     "objectID": "ea/CP00/CP02/CP021/CP0211/index.html",
     "href": "ea/CP00/CP02/CP021/CP0211/index.html",
     "title": "Spirits",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0211\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0211\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Spirits\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Spirits\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "U2/subitems.html",
+    "href": "U2/subitems.html",
+    "title": "EA inflation",
+    "section": "",
+    "text": "HICP-all items\n\naggregate HICP\n\n\n\n  \n    \n      \n        CP00\n        \n        HICP-all items\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\nMain items\n\nMain items of HICP\n\n\n\n  \n    \n      \n        FOOD\n        \n        Food\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        IGXE\n        \n        NEIG\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        NRGY00\n        \n        Energy\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n  \n    \n      \n        SERV00\n        \n        Services\n      \n    \n    \n      \n    \n    \n    \n    \n  \n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP02/CP021/CP0213/index.html",
     "href": "ea/CP00/CP02/CP021/CP0213/index.html",
     "title": "Beer",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0213\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0213\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Beer\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Beer\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP02/CP022/index.html",
     "href": "ea/CP00/CP02/CP022/index.html",
     "title": "Tobacco",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP022\nThere are no available subitems of CP022\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Tobacco\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP022_contribution.csv\nNo data for item CP022 and country EA\nThere are no available subitems of CP022\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP02/CP022/index.html#subitems",
@@ -816,21 +991,21 @@
     "href": "ea/CP00/CP03/CP031/CP0311/index.html",
     "title": "Clothing materials",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0311\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0311\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Clothing materials\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0311_contribution.csv\nNo data for item CP0311 and country EA\nThere are no available subitems of CP0311\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/CP031/CP0313/index.html",
     "href": "ea/CP00/CP03/CP031/CP0313/index.html",
     "title": "Other articles of clothing and clothing accessories",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0313\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0313\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other articles of clothing and clothing accessories\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other articles of clothing and clothing accessories\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/CP031/index.html",
     "href": "ea/CP00/CP03/CP031/index.html",
     "title": "Clothing",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP031\nFigure 2: Contributions subitems of CP031"
+    "text": "Figure 1: Inflation subitems of category Clothing\nFigure 2: Contributions subitems of category Clothing"
   },
   {
     "objectID": "ea/CP00/CP03/CP031/index.html#subitems",
@@ -844,14 +1019,14 @@
     "href": "ea/CP00/CP03/CP032/CP0322/index.html",
     "title": "Repair and hire of footwear",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0322\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0322\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Repair and hire of footwear\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0322_contribution.csv\nNo data for item CP0322 and country EA\nThere are no available subitems of CP0322\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP03/index.html",
     "href": "ea/CP00/CP03/index.html",
     "title": "Clothing and footwear",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP03\nFigure 2: Contributions subitems of CP03"
+    "text": "Figure 1: Inflation subitems of category Clothing and footwear\nFigure 2: Contributions subitems of category Clothing and footwear"
   },
   {
     "objectID": "ea/CP00/CP03/index.html#subitems",
@@ -865,21 +1040,21 @@
     "href": "ea/CP00/CP04/CP041/CP0412/index.html",
     "title": "Other actual rentals",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0412\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0412\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other actual rentals\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other actual rentals\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP043/CP0431/index.html",
     "href": "ea/CP00/CP04/CP043/CP0431/index.html",
     "title": "Materials for the maintenance and repair of the dwelling",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0431\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0431\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Materials for the maintenance and repair of the dwelling\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0431_contribution.csv\nNo data for item CP0431 and country EA\nThere are no available subitems of CP0431\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP043/index.html",
     "href": "ea/CP00/CP04/CP043/index.html",
     "title": "Maintenance and repair of the dwelling",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP043\nFigure 2: Contributions subitems of CP043"
+    "text": "Figure 1: Inflation subitems of category Maintenance and repair of the dwelling\nFigure 2: Contributions subitems of category Maintenance and repair of the dwelling"
   },
   {
     "objectID": "ea/CP00/CP04/CP043/index.html#subitems",
@@ -893,42 +1068,42 @@
     "href": "ea/CP00/CP04/CP044/CP0442/index.html",
     "title": "Refuse collection",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0442\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0442\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Refuse collection\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0442_contribution.csv\nNo data for item CP0442 and country EA\nThere are no available subitems of CP0442\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP044/CP0444/index.html",
     "href": "ea/CP00/CP04/CP044/CP0444/index.html",
     "title": "Other services relating to the dwelling n.e.c.",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0444\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0444\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other services relating to the dwelling n.e.c.\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other services relating to the dwelling n.e.c.\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/CP0451/index.html",
     "href": "ea/CP00/CP04/CP045/CP0451/index.html",
     "title": "Electricity",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0451\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0451\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Electricity\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0451_contribution.csv\nNo data for item CP0451 and country EA\nThere are no available subitems of CP0451\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/CP0453/index.html",
     "href": "ea/CP00/CP04/CP045/CP0453/index.html",
     "title": "Liquid fuels",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0453\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0453\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Liquid fuels\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0453_contribution.csv\nNo data for item CP0453 and country EA\nThere are no available subitems of CP0453\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/CP045/CP0455/index.html",
     "href": "ea/CP00/CP04/CP045/CP0455/index.html",
     "title": "Heat energy",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0455\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0455\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Heat energy\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0455_contribution.csv\nNo data for item CP0455 and country EA\nThere are no available subitems of CP0455\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP04/index.html",
     "href": "ea/CP00/CP04/index.html",
     "title": "Housing, water, electricity, gas and other fuels",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP04\nFigure 2: Contributions subitems of CP04"
+    "text": "Figure 1: Inflation subitems of category Housing, water, electricity, gas and other fuels\nFigure 2: Contributions subitems of category Housing, water, electricity, gas and other fuels"
   },
   {
     "objectID": "ea/CP00/CP04/index.html#subitems",
@@ -942,14 +1117,14 @@
     "href": "ea/CP00/CP05/CP051/CP0512/index.html",
     "title": "Carpets and other floor coverings",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0512\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0512\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Carpets and other floor coverings\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Carpets and other floor coverings\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP051/index.html",
     "href": "ea/CP00/CP05/CP051/index.html",
     "title": "Furniture and furnishings, carpets and other floor coverings",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP051\nFigure 2: Contributions subitems of CP051"
+    "text": "Figure 1: Inflation subitems of category Furniture and furnishings, carpets and other floor coverings\nFigure 2: Contributions subitems of category Furniture and furnishings, carpets and other floor coverings"
   },
   {
     "objectID": "ea/CP00/CP05/CP051/index.html#subitems",
@@ -963,21 +1138,21 @@
     "href": "ea/CP00/CP05/CP053/CP0531/index.html",
     "title": "Major household appliances whether electric or not",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0531\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0531\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Major household appliances whether electric or not\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Major household appliances whether electric or not\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP053/CP0533/index.html",
     "href": "ea/CP00/CP05/CP053/CP0533/index.html",
     "title": "Repair of household appliances",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0533\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0533\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Repair of household appliances\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0533_contribution.csv\nNo data for item CP0533 and country EA\nThere are no available subitems of CP0533\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP054/index.html",
     "href": "ea/CP00/CP05/CP054/index.html",
     "title": "Glassware, tableware and household utensils",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP054\nThere are no available subitems of CP054\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Glassware, tableware and household utensils\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP054_contribution.csv\nNo data for item CP054 and country EA\nThere are no available subitems of CP054\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP05/CP054/index.html#subitems",
@@ -991,21 +1166,21 @@
     "href": "ea/CP00/CP05/CP055/CP0552/index.html",
     "title": "Small tools and miscellaneous accessories",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0552\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0552\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Small tools and miscellaneous accessories\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Small tools and miscellaneous accessories\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP056/CP0561/index.html",
     "href": "ea/CP00/CP05/CP056/CP0561/index.html",
     "title": "Non-durable household goods",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0561\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0561\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Non-durable household goods\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Non-durable household goods\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP05/CP056/index.html",
     "href": "ea/CP00/CP05/CP056/index.html",
     "title": "Goods and services for routine household maintenance",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP056\nFigure 2: Contributions subitems of CP056"
+    "text": "Figure 1: Inflation subitems of category Goods and services for routine household maintenance\nFigure 2: Contributions subitems of category Goods and services for routine household maintenance"
   },
   {
     "objectID": "ea/CP00/CP05/CP056/index.html#subitems",
@@ -1019,35 +1194,35 @@
     "href": "ea/CP00/CP06/CP061/CP0611/index.html",
     "title": "Pharmaceutical products",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0611\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0611\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Pharmaceutical products\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0611_contribution.csv\nNo data for item CP0611 and country EA\nThere are no available subitems of CP0611\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/CP061/CP0613/index.html",
     "href": "ea/CP00/CP06/CP061/CP0613/index.html",
     "title": "Therapeutic appliances and equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0613\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0613\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Therapeutic appliances and equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Therapeutic appliances and equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/CP062/CP0621/index.html",
     "href": "ea/CP00/CP06/CP062/CP0621/index.html",
     "title": "Medical services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0621\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0621\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Medical services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Medical services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/CP062/CP0623/index.html",
     "href": "ea/CP00/CP06/CP062/CP0623/index.html",
     "title": "Paramedical services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0623\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0623\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Paramedical services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Paramedical services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP06/CP063/index.html",
     "href": "ea/CP00/CP06/CP063/index.html",
     "title": "Hospital services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP063\nThere are no available subitems of CP063\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Hospital services\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP063_contribution.csv\nNo data for item CP063 and country EA\nThere are no available subitems of CP063\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP06/CP063/index.html#subitems",
@@ -1061,35 +1236,35 @@
     "href": "ea/CP00/CP07/CP071/CP0711/index.html",
     "title": "Motor cars",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0711\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0711\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Motor cars\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Motor cars\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP071/CP0713/index.html",
     "href": "ea/CP00/CP07/CP071/CP0713/index.html",
     "title": "Bicycles",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0713\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0713\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Bicycles\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0713_contribution.csv\nNo data for item CP0713 and country EA\nThere are no available subitems of CP0713\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/CP0721/index.html",
     "href": "ea/CP00/CP07/CP072/CP0721/index.html",
     "title": "Spare parts and accessories for personal transport equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0721\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0721\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Spare parts and accessories for personal transport equipment\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Spare parts and accessories for personal transport equipment\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/CP0723/index.html",
     "href": "ea/CP00/CP07/CP072/CP0723/index.html",
     "title": "Maintenance and repair of personal transport equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0723\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0723\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Maintenance and repair of personal transport equipment\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0723_contribution.csv\nNo data for item CP0723 and country EA\nThere are no available subitems of CP0723\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/index.html",
     "href": "ea/CP00/CP07/CP072/index.html",
     "title": "Operation of personal transport equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP072\nFigure 2: Contributions subitems of CP072"
+    "text": "Figure 1: Inflation subitems of category Operation of personal transport equipment\nFigure 2: Contributions subitems of category Operation of personal transport equipment"
   },
   {
     "objectID": "ea/CP00/CP07/CP072/index.html#subitems",
@@ -1103,28 +1278,28 @@
     "href": "ea/CP00/CP07/CP073/CP0732/index.html",
     "title": "Passenger transport by road",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0732\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0732\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Passenger transport by road\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Passenger transport by road\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP073/CP0734/index.html",
     "href": "ea/CP00/CP07/CP073/CP0734/index.html",
     "title": "Passenger transport by sea and inland waterway",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0734\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0734\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Passenger transport by sea and inland waterway\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Passenger transport by sea and inland waterway\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/CP073/CP0736/index.html",
     "href": "ea/CP00/CP07/CP073/CP0736/index.html",
     "title": "Other purchased transport services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0736\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0736\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other purchased transport services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other purchased transport services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP07/index.html",
     "href": "ea/CP00/CP07/index.html",
     "title": "Transport",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP07\nFigure 2: Contributions subitems of CP07"
+    "text": "Figure 1: Inflation subitems of category Transport\nFigure 2: Contributions subitems of category Transport"
   },
   {
     "objectID": "ea/CP00/CP07/index.html#subitems",
@@ -1138,7 +1313,7 @@
     "href": "ea/CP00/CP08/index.html",
     "title": "Communications",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP08\nFigure 2: Contributions subitems of CP08"
+    "text": "Figure 1: Inflation subitems of category Communications\nFigure 2: Contributions subitems of category Communications"
   },
   {
     "objectID": "ea/CP00/CP08/index.html#subitems",
@@ -1152,21 +1327,21 @@
     "href": "ea/CP00/CP09/CP091/CP0912/index.html",
     "title": "Photographic and cinematographic equipment and optical instruments",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0912\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0912\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Photographic and cinematographic equipment and optical instruments\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Photographic and cinematographic equipment and optical instruments\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/CP0914/index.html",
     "href": "ea/CP00/CP09/CP091/CP0914/index.html",
     "title": "Recording media",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0914\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0914\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Recording media\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0914_contribution.csv\nNo data for item CP0914 and country EA\nThere are no available subitems of CP0914\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/index.html",
     "href": "ea/CP00/CP09/CP091/index.html",
     "title": "Audio-visual, photographic and information processing equipment",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP091\nFigure 2: Contributions subitems of CP091"
+    "text": "Figure 1: Inflation subitems of category Audio-visual, photographic and information processing equipment\nFigure 2: Contributions subitems of category Audio-visual, photographic and information processing equipment"
   },
   {
     "objectID": "ea/CP00/CP09/CP091/index.html#subitems",
@@ -1180,14 +1355,14 @@
     "href": "ea/CP00/CP09/CP092/CP0922/index.html",
     "title": "Musical instruments and major durables for indoor recreation",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0922\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0922\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Musical instruments and major durables for indoor recreation\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Musical instruments and major durables for indoor recreation\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP092/index.html",
     "href": "ea/CP00/CP09/CP092/index.html",
     "title": "Other major durables for recreation and culture",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP092\nFigure 2: Contributions subitems of CP092"
+    "text": "Figure 1: Inflation subitems of category Other major durables for recreation and culture\nFigure 2: Contributions subitems of category Other major durables for recreation and culture"
   },
   {
     "objectID": "ea/CP00/CP09/CP092/index.html#subitems",
@@ -1201,21 +1376,21 @@
     "href": "ea/CP00/CP09/CP093/CP0932/index.html",
     "title": "Equipment for sport, camping and open-air recreation",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0932\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0932\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Equipment for sport, camping and open-air recreation\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Equipment for sport, camping and open-air recreation\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/CP0934/index.html",
     "href": "ea/CP00/CP09/CP093/CP0934/index.html",
     "title": "Pets and related products",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0934\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0934\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Pets and related products\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Pets and related products\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/index.html",
     "href": "ea/CP00/CP09/CP093/index.html",
     "title": "Other recreational items and equipment, gardens and pets",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP093\nFigure 2: Contributions subitems of CP093"
+    "text": "Figure 1: Inflation subitems of category Other recreational items and equipment, gardens and pets\nFigure 2: Contributions subitems of category Other recreational items and equipment, gardens and pets"
   },
   {
     "objectID": "ea/CP00/CP09/CP093/index.html#subitems",
@@ -1229,28 +1404,28 @@
     "href": "ea/CP00/CP09/CP094/CP0942/index.html",
     "title": "Cultural services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0942\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0942\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Cultural services\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Cultural services\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP095/CP0951/index.html",
     "href": "ea/CP00/CP09/CP095/CP0951/index.html",
     "title": "Books",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0951\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP0951\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Books\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Books\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP095/CP0953/index.html",
     "href": "ea/CP00/CP09/CP095/CP0953/index.html",
     "title": "Miscellaneous printed matter",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP0953\n\n\n\n\n\n\n\n\nThere are no available subitems of CP0953\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Miscellaneous printed matter\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP0953_contribution.csv\nNo data for item CP0953 and country EA\nThere are no available subitems of CP0953\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP09/CP095/index.html",
     "href": "ea/CP00/CP09/CP095/index.html",
     "title": "Newspapers, books and stationery",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP095\nFigure 2: Contributions subitems of CP095"
+    "text": "Figure 1: Inflation subitems of category Newspapers, books and stationery\nFigure 2: Contributions subitems of category Newspapers, books and stationery"
   },
   {
     "objectID": "ea/CP00/CP09/CP095/index.html#subitems",
@@ -1264,7 +1439,7 @@
     "href": "ea/CP00/CP09/index.html",
     "title": "Recreation and culture",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP09\nFigure 2: Contributions subitems of CP09"
+    "text": "Figure 1: Inflation subitems of category Recreation and culture\nFigure 2: Contributions subitems of category Recreation and culture"
   },
   {
     "objectID": "ea/CP00/CP09/index.html#subitems",
@@ -1278,7 +1453,7 @@
     "href": "ea/CP00/CP10/CP102/index.html",
     "title": "Secondary education",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP102\nThere are no available subitems of CP102\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Secondary education\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP102_contribution.csv\nNo data for item CP102 and country EA\nThere are no available subitems of CP102\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP10/CP102/index.html#subitems",
@@ -1292,7 +1467,7 @@
     "href": "ea/CP00/CP10/CP104/index.html",
     "title": "Tertiary education",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP104\nThere are no available subitems of CP104\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Tertiary education\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP104_contribution.csv\nNo data for item CP104 and country EA\nThere are no available subitems of CP104\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP10/CP104/index.html#subitems",
@@ -1306,7 +1481,7 @@
     "href": "ea/CP00/CP10/index.html",
     "title": "Education",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP10\nFigure 2: Contributions subitems of CP10"
+    "text": "Figure 1: Inflation subitems of category Education\nFigure 2: Contributions subitems of category Education"
   },
   {
     "objectID": "ea/CP00/CP10/index.html#subitems",
@@ -1320,14 +1495,14 @@
     "href": "ea/CP00/CP11/CP111/CP1112/index.html",
     "title": "Canteens",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1112\n\n\n\n\n\n\n\n\nThere are no available subitems of CP1112\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Canteens\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP1112_contribution.csv\nNo data for item CP1112 and country EA\nThere are no available subitems of CP1112\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP11/CP112/index.html",
     "href": "ea/CP00/CP11/CP112/index.html",
     "title": "Accommodation services",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP112\nThere are no available subitems of CP112\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Accommodation services\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP112_contribution.csv\nNo data for item CP112 and country EA\nThere are no available subitems of CP112\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP11/CP112/index.html#subitems",
@@ -1341,28 +1516,28 @@
     "href": "ea/CP00/CP12/CP121/CP1211/index.html",
     "title": "Hairdressing salons and personal grooming establishments",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1211\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1211\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Hairdressing salons and personal grooming establishments\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Hairdressing salons and personal grooming establishments\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP121/CP1213/index.html",
     "href": "ea/CP00/CP12/CP121/CP1213/index.html",
     "title": "Other appliances, articles and products for personal care",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1213\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1213\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Other appliances, articles and products for personal care\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Other appliances, articles and products for personal care\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP123/CP1231/index.html",
     "href": "ea/CP00/CP12/CP123/CP1231/index.html",
     "title": "Jewellery, clocks and watches",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1231\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1231\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Jewellery, clocks and watches\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Jewellery, clocks and watches\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP123/index.html",
     "href": "ea/CP00/CP12/CP123/index.html",
     "title": "Personal effects n.e.c.",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP123\nFigure 2: Contributions subitems of CP123"
+    "text": "Figure 1: Inflation subitems of category Personal effects n.e.c.\nFigure 2: Contributions subitems of category Personal effects n.e.c."
   },
   {
     "objectID": "ea/CP00/CP12/CP123/index.html#subitems",
@@ -1376,21 +1551,21 @@
     "href": "ea/CP00/CP12/CP125/CP1252/index.html",
     "title": "Insurance connected with the dwelling",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1252\n\n\n\n\n\n\n\n\nThere are no available subitems of CP1252\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Insurance connected with the dwelling\n\n\n\n\n\n\n\n\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP1252_contribution.csv\nNo data for item CP1252 and country EA\nThere are no available subitems of CP1252\n\n\n\nFigure 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP125/CP1254/index.html",
     "href": "ea/CP00/CP12/CP125/CP1254/index.html",
     "title": "Insurance connected with transport",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP1254\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of CP1254\n\n\n\n\n\n\n\n Back to top"
+    "text": "Figure 1: Inflation subitems of category Insurance connected with transport\n\n\n\n\n\n\n\n\n                                                \n\n\nFigure 2: Contributions subitems of category Insurance connected with transport\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ea/CP00/CP12/CP125/index.html",
     "href": "ea/CP00/CP12/CP125/index.html",
     "title": "Insurance",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP125\nFigure 2: Contributions subitems of CP125"
+    "text": "Figure 1: Inflation subitems of category Insurance\nFigure 2: Contributions subitems of category Insurance"
   },
   {
     "objectID": "ea/CP00/CP12/CP125/index.html#subitems",
@@ -1404,7 +1579,7 @@
     "href": "ea/CP00/CP12/CP127/index.html",
     "title": "Other services n.e.c.",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP127\nThere are no available subitems of CP127\n\n\n\nFigure 2"
+    "text": "Figure 1: Inflation subitems of category Other services n.e.c.\nThere is no file C:\\Users\\eeu227\\Documents\\PROJECTS\\infldash\\data\\EA\\sub_items_CP127_contribution.csv\nNo data for item CP127 and country EA\nThere are no available subitems of CP127\n\n\n\nFigure 2"
   },
   {
     "objectID": "ea/CP00/CP12/CP127/index.html#subitems",
@@ -1418,7 +1593,7 @@
     "href": "ea/CP00/index.html",
     "title": "All-items HICP",
     "section": "",
-    "text": "Figure 1: Inflation subitems of CP00\nFigure 2: Contributions subitems of CP00"
+    "text": "Figure 1: Inflation subitems of category All-items HICP\nFigure 2: Contributions subitems of category All-items HICP"
   },
   {
     "objectID": "ea/CP00/index.html#subitems",
